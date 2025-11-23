@@ -168,8 +168,5 @@ Thus, the program was implemented and executed successfully, and the required ou
   Print all words that are not marked as duplicates.
 ### Step 8: 
   Stop
-# Program:
-# Output:
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
-
